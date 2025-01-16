@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0882405de187b3a44b90e4939a0d5649, type: 3}
+  m_Name: ScriptableObjectChestSettings
+  m_EditorClassIdentifier: 
+  maxRounds: 5
+  minChestInScene: 2
+  maxChestInScene: 5
+  minCoinsInChest: 5
+  maxCoinsInChest: 10
+  prefabChestReference: {fileID: 8961751553953175147, guid: 60a72a5c42924c747a462bc90031e8ed, type: 3}
+  prefabChestGameplayManagerReference: {fileID: 5171021002039323128, guid: c1a38c0f2eb11f74ba09973d7062a123, type: 3}
